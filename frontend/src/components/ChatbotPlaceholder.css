@@ -1,0 +1,11 @@
+.chatbot-placeholder {
+    min-height: 180px;
+    text-align: center;
+  }
+  .chat-window {
+    background: #e8f0fe;
+    border-radius: 8px;
+    padding: 16px;
+    margin-top: 10px;
+  }
+  

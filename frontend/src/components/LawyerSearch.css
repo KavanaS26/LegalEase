@@ -1,0 +1,30 @@
+.lawyer-search input {
+    width: 95%;
+    padding: 8px;
+    margin-bottom: 12px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+  }
+  .lawyer-list {
+    margin-top: 10px;
+  }
+  .lawyer-card {
+    background: #fff;
+    border-radius: 6px;
+    padding: 10px;
+    margin-bottom: 8px;
+    box-shadow: 0 1px 4px rgba(30,53,94,0.07);
+  }
+  .lawyer-card button {
+    background: #1e355e;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    padding: 6px 14px;
+    cursor: pointer;
+  }
+  .lawyer-card button:hover {
+    background: #ffd700;
+    color: #1e355e;
+  }
+  
